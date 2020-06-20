@@ -1,4 +1,4 @@
-# Welcome to My Coursera Webdevelopment Course Github Repository
+# Welcome to My Coursera Web Development Course Github Repository
 
 ## Assignment Solution Links
 Assignment 2 [Assignment 2 Solution](https://priyalpatil98.github.io/Coursera-Website/module-2-sol/)
